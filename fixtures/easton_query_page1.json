@@ -1,0 +1,86 @@
+{
+  "objectIdFieldName": "OBJECTID",
+  "exceededTransferLimit": false,
+  "features": [
+    {
+      "attributes": {
+        "OBJECTID": 1,
+        "PARCELID": "EAST-001",
+        "LOWPARCELID": "EAST-001",
+        "BILLNO": "28425",
+        "IMPAREA": 3900.0,
+        "NUMUNITS": 1,
+        "UNITIMPAREA": 3900.0,
+        "CALCMETHOD": "Assigned",
+        "NUM_ERUS": 1,
+        "USECD": "1010",
+        "USEDSCRP": "SINGLE FAM MDL-01",
+        "BLDGVAL": 223100
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2,
+        "PARCELID": "EAST-002-CHURCH",
+        "LOWPARCELID": "EAST-002-CHURCH",
+        "BILLNO": "29100",
+        "IMPAREA": 36118.0,
+        "NUMUNITS": 1,
+        "UNITIMPAREA": 36118.0,
+        "CALCMETHOD": "Calculated",
+        "NUM_ERUS": 9,
+        "USECD": "9600",
+        "USEDSCRP": "CHURCH, SYNAGOGUE",
+        "BLDGVAL": 1400000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3,
+        "PARCELID": "EAST-003-CHARITY",
+        "LOWPARCELID": "EAST-003-CHARITY",
+        "BILLNO": "29101",
+        "IMPAREA": 58516.0,
+        "NUMUNITS": 1,
+        "UNITIMPAREA": 58516.0,
+        "CALCMETHOD": "Calculated",
+        "NUM_ERUS": 15,
+        "USECD": "9570",
+        "USEDSCRP": "CHARITABLE SERVICES",
+        "BLDGVAL": 1190800
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
+        "PARCELID": "EAST-004-ARITH",
+        "LOWPARCELID": "EAST-004-ARITH",
+        "BILLNO": "29102",
+        "IMPAREA": 3900.0,
+        "NUMUNITS": 1,
+        "UNITIMPAREA": 3900.0,
+        "CALCMETHOD": "Calculated",
+        "NUM_ERUS": 4,
+        "USECD": "4010",
+        "USEDSCRP": "ND WHSES MDL-96",
+        "BLDGVAL": 621900
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
+        "PARCELID": "EAST-005-EXEMPT-METHOD",
+        "LOWPARCELID": "EAST-005-EXEMPT-METHOD",
+        "BILLNO": "29103",
+        "IMPAREA": 12000.0,
+        "NUMUNITS": 1,
+        "UNITIMPAREA": 12000.0,
+        "CALCMETHOD": "Exempt",
+        "NUM_ERUS": 3,
+        "USECD": "9110",
+        "USEDSCRP": "MUNICIPAL EXEMPT",
+        "BLDGVAL": 0
+      }
+    }
+  ]
+}

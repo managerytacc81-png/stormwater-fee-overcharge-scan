@@ -1,0 +1,62 @@
+[
+  {
+    "PARCELID": "21R-5A",
+    "BILLNO": "28425",
+    "IMPAREA": 3956.99315172,
+    "NUM_ERUS": 1,
+    "USECD": "1010",
+    "BLDGVAL": 223100,
+    "USEDSCRP": "SINGLE FAM MDL-01",
+    "CALCMETHOD": "Assigned",
+    "NUMUNITS": 1,
+    "UNITIMPAREA": 3956.99
+  },
+  {
+    "PARCELID": "22R-35",
+    "BILLNO": null,
+    "IMPAREA": 0,
+    "NUM_ERUS": 0,
+    "USECD": "9110",
+    "BLDGVAL": 0,
+    "USEDSCRP": "DFW/REIMBU",
+    "CALCMETHOD": "Exempt",
+    "NUMUNITS": 1,
+    "UNITIMPAREA": 0
+  },
+  {
+    "PARCELID": "21R-5C",
+    "BILLNO": "120054",
+    "IMPAREA": 1995.80922884,
+    "NUM_ERUS": 1,
+    "USECD": "1010",
+    "BLDGVAL": 279000,
+    "USEDSCRP": "SINGLE FAM MDL-01",
+    "CALCMETHOD": "Assigned",
+    "NUMUNITS": 1,
+    "UNITIMPAREA": 1995.81
+  },
+  {
+    "PARCELID": "21R-5",
+    "BILLNO": null,
+    "IMPAREA": 0,
+    "NUM_ERUS": 0,
+    "USECD": "9360",
+    "BLDGVAL": 0,
+    "USEDSCRP": "VACANT, TAX TITLE,TREASURER",
+    "CALCMETHOD": "Exempt",
+    "NUMUNITS": 1,
+    "UNITIMPAREA": 0
+  },
+  {
+    "PARCELID": "22R-34",
+    "BILLNO": null,
+    "IMPAREA": 0,
+    "NUM_ERUS": 0,
+    "USECD": "9110",
+    "BLDGVAL": 0,
+    "USEDSCRP": "DFW/REIMBU",
+    "CALCMETHOD": "Exempt",
+    "NUMUNITS": 1,
+    "UNITIMPAREA": 0
+  }
+]

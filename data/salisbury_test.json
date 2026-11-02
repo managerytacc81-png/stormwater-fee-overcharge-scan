@@ -1,0 +1,62 @@
+[
+  {
+    "acctid": "2305000025",
+    "zoning": "R5",
+    "lu": "R",
+    "desclu": "Residential",
+    "is_sqft": 2103.8158145099997,
+    "indiv_eru": 0.6291315199999999,
+    "eru_rnd": 1,
+    "indiv_fee": 30,
+    "annualrev": 30,
+    "billablekey": "Single Family"
+  },
+  {
+    "acctid": "2305000033",
+    "zoning": "R5",
+    "lu": "R",
+    "desclu": "Residential",
+    "is_sqft": 2532.91741999,
+    "indiv_eru": 0.7574513800000001,
+    "eru_rnd": 1,
+    "indiv_fee": 30,
+    "annualrev": 30,
+    "billablekey": "Single Family"
+  },
+  {
+    "acctid": "2305000041",
+    "zoning": "R5",
+    "lu": "R",
+    "desclu": "Residential",
+    "is_sqft": 1902.87250045,
+    "indiv_eru": 0.5690408200000001,
+    "eru_rnd": 1,
+    "indiv_fee": 30,
+    "annualrev": 30,
+    "billablekey": "Single Family"
+  },
+  {
+    "acctid": "2305000068",
+    "zoning": "R5",
+    "lu": "R",
+    "desclu": "Residential",
+    "is_sqft": 2603.41940462,
+    "indiv_eru": 0.7785345100000001,
+    "eru_rnd": 1,
+    "indiv_fee": 30,
+    "annualrev": 30,
+    "billablekey": "Single Family"
+  },
+  {
+    "acctid": "2305000076",
+    "zoning": "R5",
+    "lu": "R",
+    "desclu": "Residential",
+    "is_sqft": 2914.80524712,
+    "indiv_eru": 0.87165229,
+    "eru_rnd": 1,
+    "indiv_fee": 30,
+    "annualrev": 30,
+    "billablekey": "Single Family"
+  }
+]

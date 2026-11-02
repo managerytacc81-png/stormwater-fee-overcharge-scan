@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "name": "Stormwater Utility Parcels",
+  "type": "Feature Layer",
+  "maxRecordCount": 2000,
+  "fields": [
+    {"name": "OBJECTID", "type": "esriFieldTypeOID"},
+    {"name": "PARCELID", "type": "esriFieldTypeString"},
+    {"name": "LOWPARCELID", "type": "esriFieldTypeString"},
+    {"name": "BILLNO", "type": "esriFieldTypeString"},
+    {"name": "IMPAREA", "type": "esriFieldTypeDouble"},
+    {"name": "NUMUNITS", "type": "esriFieldTypeInteger"},
+    {"name": "UNITIMPAREA", "type": "esriFieldTypeDouble"},
+    {"name": "CALCMETHOD", "type": "esriFieldTypeString"},
+    {"name": "NUM_ERUS", "type": "esriFieldTypeInteger"},
+    {"name": "USECD", "type": "esriFieldTypeString"},
+    {"name": "USEDSCRP", "type": "esriFieldTypeString"},
+    {"name": "BLDGVAL", "type": "esriFieldTypeDouble"}
+  ]
+}

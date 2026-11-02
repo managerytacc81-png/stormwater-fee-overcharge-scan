@@ -1,0 +1,17 @@
+{
+  "name": "Parcels_with_ERU1",
+  "layers": [
+    {
+      "id": 38,
+      "name": "Parcels with ERU",
+      "parentLayerId": -1,
+      "defaultVisibility": true,
+      "subLayerIds": null,
+      "minScale": 288896,
+      "maxScale": 1128,
+      "type": "Feature Layer",
+      "geometryType": "esriGeometryPolygon"
+    }
+  ],
+  "tables": []
+}

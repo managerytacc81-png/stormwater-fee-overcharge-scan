@@ -1,0 +1,70 @@
+{
+  "objectIdFieldName": "objectid",
+  "exceededTransferLimit": true,
+  "features": [
+    {
+      "attributes": {
+        "objectid": 1,
+        "acctid": "SALIS-001",
+        "zoning": "R5",
+        "lu": "R",
+        "desclu": "Residential",
+        "is_sqft": 3344.0,
+        "eru": 3344,
+        "indiv_eru": 1.0,
+        "eru_rnd": 1,
+        "indiv_fee": 30.0,
+        "annualrev": 30.0,
+        "billablekey": "Single Family"
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 2,
+        "acctid": "SALIS-002-ARITH",
+        "zoning": "C",
+        "lu": "C",
+        "desclu": "Commercial",
+        "is_sqft": 6688.0,
+        "eru": 3344,
+        "indiv_eru": 2.0,
+        "eru_rnd": 6,
+        "indiv_fee": 30.0,
+        "annualrev": 180.0,
+        "billablekey": "Greater than 1 ERU, NSF Residential"
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 3,
+        "acctid": "SALIS-003-EXEMPT",
+        "zoning": "GC",
+        "lu": "EC",
+        "desclu": "Exempt Commercial",
+        "is_sqft": 802958.0,
+        "eru": 3344,
+        "indiv_eru": 240.1,
+        "eru_rnd": 240,
+        "indiv_fee": 30.0,
+        "annualrev": 7200.0,
+        "billablekey": "Greater than 1 ERU, NSF Residential"
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 4,
+        "acctid": "SALIS-004-CLASS",
+        "zoning": "C",
+        "lu": "C",
+        "desclu": "Commercial",
+        "is_sqft": 0.0,
+        "eru": 3344,
+        "indiv_eru": 0.0,
+        "eru_rnd": 2,
+        "indiv_fee": 30.0,
+        "annualrev": 60.0,
+        "billablekey": "1 ERU, NSF Residential"
+      }
+    }
+  ]
+}

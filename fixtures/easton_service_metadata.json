@@ -1,0 +1,17 @@
+{
+  "name": "EastonStormwaterUtilityParcels",
+  "layers": [
+    {
+      "id": 1,
+      "name": "Stormwater Utility Parcels",
+      "parentLayerId": -1,
+      "defaultVisibility": true,
+      "subLayerIds": null,
+      "minScale": 0,
+      "maxScale": 0,
+      "type": "Feature Layer",
+      "geometryType": "esriGeometryPolygon"
+    }
+  ],
+  "tables": []
+}

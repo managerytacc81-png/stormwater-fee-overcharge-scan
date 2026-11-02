@@ -1,0 +1,20 @@
+{
+  "id": 38,
+  "name": "Parcels with ERU",
+  "type": "Feature Layer",
+  "maxRecordCount": 1000,
+  "fields": [
+    {"name": "objectid", "type": "esriFieldTypeOID"},
+    {"name": "acctid", "type": "esriFieldTypeString"},
+    {"name": "zoning", "type": "esriFieldTypeString"},
+    {"name": "lu", "type": "esriFieldTypeString"},
+    {"name": "desclu", "type": "esriFieldTypeString"},
+    {"name": "is_sqft", "type": "esriFieldTypeDouble"},
+    {"name": "eru", "type": "esriFieldTypeInteger"},
+    {"name": "indiv_eru", "type": "esriFieldTypeDouble"},
+    {"name": "eru_rnd", "type": "esriFieldTypeInteger"},
+    {"name": "indiv_fee", "type": "esriFieldTypeDouble"},
+    {"name": "annualrev", "type": "esriFieldTypeDouble"},
+    {"name": "billablekey", "type": "esriFieldTypeString"}
+  ]
+}
